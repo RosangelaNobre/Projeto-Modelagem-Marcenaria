@@ -4,5 +4,7 @@ Este projeto consiste na construção de um banco de dados de uma marcenaria –
 Foi utilizado a ferramenta brModelo indicado no curso para modelagem conceitual e lógico, para modelagem física, utilizei o software SQL Power Architect.
 
 ## Modelo Conceitual
-
+<p align="center">
+  <img width="770" src="to_readme/modelo-conceitual.png">
+</p>
 
