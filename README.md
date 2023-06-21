@@ -8,3 +8,13 @@ Foi utilizado a ferramenta brModelo indicado no curso para modelagem conceitual 
   <img width="770" src="to_readme/modelo-conceitual.png">
 </p>
 
+## Modelo Lógico
+<p align="center">
+  <img width="770" src="to_readme/modelo-logico.png">
+</p>
+
+## Modelo Físico
+<p align="center">
+  <img width="770" src="to_readme/modelo-fisico.png">
+</p>
+
